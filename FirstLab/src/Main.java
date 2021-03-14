@@ -1,7 +1,6 @@
 /**
  * This is <em>Main</em> class for the First Lab
  * @author zannarui
- * @version 1.0
  * @since 06-03-2021
  */
 public class Main {
