@@ -1,5 +1,5 @@
 /**
- * This is <em>Main</em> class for the First Lab
+ * This is <b>Main</b> class for the First Lab
  * @author zannarui
  * @since 06-03-2021
  */
