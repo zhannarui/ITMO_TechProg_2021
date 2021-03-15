@@ -1,7 +1,6 @@
 /**
  * This is <b>Main</b> class for the First Lab
  * @author zannarui
- * @since 06-03-2021
  */
 public class Main {
     public static void main(String[] args) {
